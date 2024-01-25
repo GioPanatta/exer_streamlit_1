@@ -3,6 +3,8 @@
 ## Sobre o Projeto
 Este projeto é um exercício prático que explora as funcionalidades do Streamlit, utilizando exemplos da documentação oficial. O script é escrito em Python e projetado para ser executado em um ambiente Streamlit.
 
+O link do app pode ser acessado [aqui](https://giopanatta-exer-streamlit-1-streamlit-ex1-b7m0ok.streamlit.app/)
+
 ## Funcionalidades Implementadas
 
 ### Configuração Inicial
